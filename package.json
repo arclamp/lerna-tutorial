@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/arclamp/lerna-tutorial/issues"
   },
-  "homepage": "https://github.com/arclamp/lerna-tutorial#readme"
+  "homepage": "https://github.com/arclamp/lerna-tutorial#readme",
+  "devDependencies": {
+    "lerna": "^2.9.1"
+  }
 }
