@@ -1,0 +1,12 @@
+{
+  "name": "warpcore",
+  "version": "0.1.0",
+  "description": "Warp core control system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roni Choudhury",
+  "license": "Apache-2.0"
+}
