@@ -12,3 +12,8 @@ function setWarpspeed (factor) {
 
   return good;
 }
+
+module.exports = {
+  getWarpspeed: getWarpspeed,
+  setWarpspeed: setWarpspeed
+};
