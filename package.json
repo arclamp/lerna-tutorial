@@ -1,5 +1,5 @@
 {
-  "name": "lerna-tutorial",
+  "name": "@arclamp/lerna-tutorial",
   "version": "0.0.0",
   "description": "An experimental tutorial for constructing a lerna repository",
   "main": "index.js",

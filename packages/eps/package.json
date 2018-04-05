@@ -1,5 +1,5 @@
 {
-  "name": "eps",
+  "name": "@arclamp/eps",
   "version": "0.0.0",
   "description": "EPS control system",
   "main": "index.js",

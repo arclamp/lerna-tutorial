@@ -1,5 +1,5 @@
 {
-  "name": "warpcore",
+  "name": "@arclamp/warpcore",
   "version": "0.0.0",
   "description": "Warp core control system",
   "main": "index.js",
