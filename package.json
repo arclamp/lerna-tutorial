@@ -1,6 +1,6 @@
 {
   "name": "lerna-tutorial",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "An experimental tutorial for constructing a lerna repository",
   "main": "index.js",
   "scripts": {
