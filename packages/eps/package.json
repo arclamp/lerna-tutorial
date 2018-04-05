@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Roni Choudhury",
   "license": "Apache-2.0",
-  "devDependencies": {
+  "dependencies": {
     "warpcore": "^0.1.0"
   },
   "publishConfig": {
