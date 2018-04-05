@@ -1,4 +1,4 @@
-var warpcore = require('warpcore');
+var warpcore = require('@arclamp/warpcore');
 
 function getPowerLevel () {
   return Math.pow(warpcore.getWarpspeed(), 3);
