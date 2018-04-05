@@ -10,7 +10,7 @@
   "author": "Roni Choudhury",
   "license": "Apache-2.0",
   "dependencies": {
-    "warpcore": "^0.1.0"
+    "@arclamp/warpcore": "^0.1.0"
   },
   "publishConfig": {
     "access": "public"
