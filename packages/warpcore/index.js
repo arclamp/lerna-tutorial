@@ -19,6 +19,14 @@ function eject () {
   ejected = true;
 }
 
+function coldstart () {
+  if (warpspeed != 0) {
+    return false;
+  }
+
+  setWarpspeed(Math.random() * 8 + 1);
+}
+
 module.exports = {
   getWarpspeed: getWarpspeed,
   setWarpspeed: setWarpspeed
