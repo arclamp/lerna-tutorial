@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/arclamp/lerna-tutorial#readme",
   "devDependencies": {
-    "lerna": "^2.9.1"
+    "lerna": "^2.10.1"
   }
 }
